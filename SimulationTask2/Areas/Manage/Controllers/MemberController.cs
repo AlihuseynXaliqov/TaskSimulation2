@@ -1,5 +1,7 @@
 ﻿using AutoMapper;
+using Humanizer;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.CodeAnalysis.Elfie.Diagnostics;
 using Microsoft.EntityFrameworkCore;
 using SimulationTask2.Areas.Manage.DTOS.Member;
 using SimulationTask2.Areas.Manage.Helpers.Exception;
@@ -38,7 +40,14 @@ namespace SimulationTask2.Areas.Manage.Controllers
         [HttpPost]
         public IActionResult Create(CreateMemberDto dto)
         {
-            ViewBag.Position = dbContext.Positions.ToList();
+
+
+            if (!ModelState.IsValid)
+            {
+                ViewBag.Position = dbContext.Positions.ToList();
+                return View(dto);
+            }
+
             if (dto.imageUrl != null)
             {
                 if (!dto.formFile.ContentType.Contains("image"))
@@ -65,10 +74,59 @@ namespace SimulationTask2.Areas.Manage.Controllers
 
         public IActionResult Update(int id)
         {
+            ViewBag.Position = dbContext.Positions.ToList();
             if (id<=0) throw new NegativeIdException();
             var position=dbContext.Members.Include(x=>x.Position).FirstOrDefault(x => x.Id == id);
-            return View(position);
+            var newPosition=mapper.Map<UpdateMemberDto>(position);
+            return View(newPosition);
 
+        }
+
+        [HttpPost]
+        public IActionResult Update(UpdateMemberDto dto)
+        {
+
+            if (!ModelState.IsValid)
+            {
+                ViewBag.Position = dbContext.Positions.ToList(); 
+                return View(dto);
+            }
+
+            var position = dbContext.Members.Include(x => x.Position).FirstOrDefault(x => x.Id == dto.Id);
+            if (dto.imageUrl != null)
+            {
+                if (!dto.formFile.ContentType.Contains("image"))
+                {
+                    ModelState.AddModelError("formFile", "Sekili duzgun sec");
+                    return View();
+                }
+                if (dto.formFile.Length > 2097152)
+                {
+                    ModelState.AddModelError("formFile", "Sekili duzgun sec");
+                    return View();
+                }
+                if (!string.IsNullOrEmpty(dto.imageUrl))
+                {
+                    FileExtention.Delete(web.WebRootPath,"Upload/Member",dto.imageUrl);
+                }
+                position.imageUrl = dto.formFile.Upload(web.WebRootPath, "Upload/Member");
+
+            }
+            position.Name=dto.Name;
+            position.PositionId=dto.PositionId;
+            var newPosition = mapper.Map<Member>(position);
+            dbContext.Members.Update(position);
+            dbContext.SaveChanges();
+            return RedirectToAction(nameof(Index));
+        }
+
+        public IActionResult Delete(int id)
+        {
+            if (id <= 0) throw new NegativeIdException();
+            var position = dbContext.Members.Include(x => x.Position).FirstOrDefault(x => x.Id == id);
+            dbContext.Remove(position);
+            dbContext.SaveChanges();
+            return RedirectToAction(nameof(Index));
         }
     }
 }

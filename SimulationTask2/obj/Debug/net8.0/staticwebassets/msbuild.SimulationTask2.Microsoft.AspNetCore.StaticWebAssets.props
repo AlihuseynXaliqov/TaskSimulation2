@@ -36036,5 +36036,41 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Member\9c4cbbeb-577b-493f-ab2c-48429083113aWIN_20240126_12_08_23_Pro.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Member\de67721c-64d7-4701-93f8-5271f23f2249Screenshot 2023-12-18 213917.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SimulationTask2</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SimulationTask2</BasePath>
+      <RelativePath>Upload/Member/de67721c-64d7-4701-93f8-5271f23f2249Screenshot 2023-12-18 213917.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>4epe6nuvdx</Fingerprint>
+      <Integrity>9GVo22g5GBOR6f0ASfq/BLG9QYRjowO8vTZDDwu4ErQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Member\de67721c-64d7-4701-93f8-5271f23f2249Screenshot 2023-12-18 213917.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Member\eed86c3a-3216-4f11-b253-35afa325d734Screenshot (2).png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SimulationTask2</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SimulationTask2</BasePath>
+      <RelativePath>Upload/Member/eed86c3a-3216-4f11-b253-35afa325d734Screenshot (2).png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>gzcx1vw0pi</Fingerprint>
+      <Integrity>/DxO+LRHrXIT2OQ3jQWQxAXXqE126vWhq+zUhm7aqNE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Member\eed86c3a-3216-4f11-b253-35afa325d734Screenshot (2).png'))</OriginalItemSpec>
+    </StaticWebAsset>
   </ItemGroup>
 </Project>

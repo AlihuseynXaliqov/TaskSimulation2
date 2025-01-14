@@ -458,11 +458,13 @@
         <div class="section-title text-center">
             <h1 class="display-5 mb-5">Team Members</h1>
         </div>
-        @foreach(var item in Model){
 
-        <div class="row g-4">
-            <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                <div class="team-item">
+
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-lg-3 col-md-6 wow fadeInUp" >
+                    <div class="team-item">
                     <div class="overflow-hidden position-relative">
                         <img class="img-fluid" src="~/Upload/Member/@item.imageUrl" alt="">
                         <div class="team-social">
@@ -473,12 +475,14 @@
                     </div>
                     <div class="text-center border border-5 border-light border-top-0 p-4">
                         <h5 class="mb-0">@item.Name</h5>
-                            <small>@(ViewBag.Position as List<Position>).FirstOrDefault(p => p.Id == item.positionId)?.Name</small>
+                            <small>@((ViewBag.Position as List<Position>).FirstOrDefault(p => p.Id == item.PositionId)?.Name)</small>
                     </div>
                 </div>
             </div>
+            }
+
         </div>
-        }
+        
     </div>
 </div>
 <!-- Team End -->

@@ -1999,3 +1999,5 @@ wwwroot\scss\bootstrap\scss\utilities\_api.scss
 wwwroot\scss\bootstrap\scss\vendor\_rfs.scss
 wwwroot\Upload\Member\7c8e119d-4a56-470b-879e-0ebbf2bf1e49WIN_20240126_12_08_23_Pro.jpg
 wwwroot\Upload\Member\9c4cbbeb-577b-493f-ab2c-48429083113aWIN_20240126_12_08_23_Pro.jpg
+wwwroot\Upload\Member\de67721c-64d7-4701-93f8-5271f23f2249Screenshot 2023-12-18 213917.png
+wwwroot\Upload\Member\eed86c3a-3216-4f11-b253-35afa325d734Screenshot (2).png

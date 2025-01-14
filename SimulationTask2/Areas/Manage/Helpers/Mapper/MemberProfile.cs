@@ -9,6 +9,7 @@ namespace SimulationTask2.Areas.Manage.Helpers.Mapper
         public MemberProfile()
         {
             CreateMap<CreateMemberDto,Member>().ReverseMap();
+            CreateMap<UpdateMemberDto,Member>().ReverseMap();
         }
     }
 }

@@ -7,40 +7,32 @@
       "RelativeMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|solutionrelative:simulationtask2\\areas\\manage\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|c:\\users\\smart\\source\\repos\\simulationtask2\\simulationtask2\\areas\\manage\\dtos\\member\\updatememberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|solutionrelative:simulationtask2\\areas\\manage\\dtos\\member\\updatememberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|c:\\users\\smart\\source\\repos\\simulationtask2\\simulationtask2\\areas\\manage\\dtos\\member\\creatememberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|solutionrelative:simulationtask2\\areas\\manage\\dtos\\member\\creatememberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|c:\\users\\smart\\source\\repos\\simulationtask2\\simulationtask2\\areas\\manage\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|solutionrelative:simulationtask2\\areas\\manage\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|c:\\users\\smart\\source\\repos\\simulationtask2\\simulationtask2\\areas\\manage\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|solutionrelative:simulationtask2\\areas\\manage\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|c:\\users\\smart\\source\\repos\\simulationtask2\\simulationtask2\\areas\\manage\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|solutionrelative:simulationtask2\\areas\\manage\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|c:\\users\\smart\\source\\repos\\simulationtask2\\simulationtask2\\areas\\manage\\dtos\\member\\updatememberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|solutionrelative:simulationtask2\\areas\\manage\\dtos\\member\\updatememberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|c:\\users\\smart\\source\\repos\\simulationtask2\\simulationtask2\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|solutionrelative:simulationtask2\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|c:\\users\\smart\\source\\repos\\simulationtask2\\simulationtask2\\areas\\manage\\helpers\\exception\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|solutionrelative:simulationtask2\\areas\\manage\\helpers\\exception\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|c:\\users\\smart\\source\\repos\\simulationtask2\\simulationtask2\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|solutionrelative:simulationtask2\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|c:\\users\\smart\\source\\repos\\simulationtask2\\simulationtask2\\areas\\manage\\helpers\\exception\\negativeidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|solutionrelative:simulationtask2\\areas\\manage\\helpers\\exception\\negativeidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|c:\\users\\smart\\source\\repos\\simulationtask2\\simulationtask2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|solutionrelative:simulationtask2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|c:\\users\\smart\\source\\repos\\simulationtask2\\simulationtask2\\areas\\manage\\dtos\\position\\createpositiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|solutionrelative:simulationtask2\\areas\\manage\\dtos\\position\\createpositiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|c:\\users\\smart\\source\\repos\\simulationtask2\\simulationtask2\\areas\\manage\\helpers\\mapper\\memberprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|solutionrelative:simulationtask2\\areas\\manage\\helpers\\mapper\\memberprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|c:\\users\\smart\\source\\repos\\simulationtask2\\simulationtask2\\areas\\manage\\views\\member\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|solutionrelative:simulationtask2\\areas\\manage\\views\\member\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|c:\\users\\smart\\source\\repos\\simulationtask2\\simulationtask2\\areas\\manage\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -51,32 +43,48 @@
       "RelativeMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|solutionrelative:simulationtask2\\areas\\manage\\views\\position\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|c:\\users\\smart\\source\\repos\\simulationtask2\\simulationtask2\\areas\\manage\\views\\position\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|solutionrelative:simulationtask2\\areas\\manage\\views\\position\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|c:\\users\\smart\\source\\repos\\simulationtask2\\simulationtask2\\areas\\manage\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|solutionrelative:simulationtask2\\areas\\manage\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|c:\\users\\smart\\source\\repos\\simulationtask2\\simulationtask2\\areas\\manage\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|solutionrelative:simulationtask2\\areas\\manage\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|c:\\users\\smart\\source\\repos\\simulationtask2\\simulationtask2\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|solutionrelative:simulationtask2\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|c:\\users\\smart\\source\\repos\\simulationtask2\\simulationtask2\\helper\\files\\fileextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|solutionrelative:simulationtask2\\helper\\files\\fileextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|c:\\users\\smart\\source\\repos\\simulationtask2\\simulationtask2\\areas\\manage\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|solutionrelative:simulationtask2\\areas\\manage\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|c:\\users\\smart\\source\\repos\\simulationtask2\\simulationtask2\\areas\\manage\\helpers\\mapper\\positionprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|solutionrelative:simulationtask2\\areas\\manage\\helpers\\mapper\\positionprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|c:\\users\\smart\\source\\repos\\simulationtask2\\simulationtask2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|solutionrelative:simulationtask2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|c:\\users\\smart\\source\\repos\\simulationtask2\\simulationtask2\\areas\\manage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|solutionrelative:simulationtask2\\areas\\manage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|c:\\users\\smart\\source\\repos\\simulationtask2\\simulationtask2\\areas\\manage\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|solutionrelative:simulationtask2\\areas\\manage\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|c:\\users\\smart\\source\\repos\\simulationtask2\\simulationtask2\\areas\\manage\\helpers\\mapper\\positionprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|solutionrelative:simulationtask2\\areas\\manage\\helpers\\mapper\\positionprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|c:\\users\\smart\\source\\repos\\simulationtask2\\simulationtask2\\areas\\manage\\helpers\\exception\\negativeidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|solutionrelative:simulationtask2\\areas\\manage\\helpers\\exception\\negativeidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|c:\\users\\smart\\source\\repos\\simulationtask2\\simulationtask2\\areas\\manage\\helpers\\mapper\\memberprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|solutionrelative:simulationtask2\\areas\\manage\\helpers\\mapper\\memberprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|c:\\users\\smart\\source\\repos\\simulationtask2\\simulationtask2\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|solutionrelative:simulationtask2\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|c:\\users\\smart\\source\\repos\\simulationtask2\\simulationtask2\\areas\\manage\\dtos\\position\\createpositiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|solutionrelative:simulationtask2\\areas\\manage\\dtos\\position\\createpositiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|c:\\users\\smart\\source\\repos\\simulationtask2\\simulationtask2\\areas\\manage\\views\\position\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|solutionrelative:simulationtask2\\areas\\manage\\views\\position\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA5C314C-D243-4552-83D2-D9DDB3C55514}|SimulationTask2\\SimulationTask2.csproj|c:\\users\\smart\\source\\repos\\simulationtask2\\simulationtask2\\areas\\manage\\dtos\\position\\updatepositiiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,17 +98,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 20,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\SimulationTask2\\SimulationTask2\\Areas\\Manage\\Helpers\\Exception\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "SimulationTask2\\Areas\\Manage\\Helpers\\Exception\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\SimulationTask2\\SimulationTask2\\Areas\\Manage\\Helpers\\Exception\\NotFoundException.cs",
+              "RelativeToolTip": "SimulationTask2\\Areas\\Manage\\Helpers\\Exception\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:17:57.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\SimulationTask2\\SimulationTask2\\Areas\\Manage\\Views\\Member\\Update.cshtml",
+              "RelativeDocumentMoniker": "SimulationTask2\\Areas\\Manage\\Views\\Member\\Update.cshtml",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\SimulationTask2\\SimulationTask2\\Areas\\Manage\\Views\\Member\\Update.cshtml",
+              "RelativeToolTip": "SimulationTask2\\Areas\\Manage\\Views\\Member\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T11:48:52.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "UpdateMemberDto.cs",
               "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\SimulationTask2\\SimulationTask2\\Areas\\Manage\\DTOS\\Member\\UpdateMemberDto.cs",
               "RelativeDocumentMoniker": "SimulationTask2\\Areas\\Manage\\DTOS\\Member\\UpdateMemberDto.cs",
               "ToolTip": "C:\\Users\\smart\\source\\repos\\SimulationTask2\\SimulationTask2\\Areas\\Manage\\DTOS\\Member\\UpdateMemberDto.cs",
               "RelativeToolTip": "SimulationTask2\\Areas\\Manage\\DTOS\\Member\\UpdateMemberDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T09:27:16.824Z",
               "EditorCaption": ""
@@ -120,65 +154,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\SimulationTask2\\SimulationTask2\\Controllers\\Home\\HomeController.cs",
               "RelativeDocumentMoniker": "SimulationTask2\\Controllers\\Home\\HomeController.cs",
               "ToolTip": "C:\\Users\\smart\\source\\repos\\SimulationTask2\\SimulationTask2\\Controllers\\Home\\HomeController.cs",
               "RelativeToolTip": "SimulationTask2\\Controllers\\Home\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T09:04:28.019Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\SimulationTask2\\SimulationTask2\\VIews\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "SimulationTask2\\VIews\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\smart\\source\\repos\\SimulationTask2\\SimulationTask2\\VIews\\Home\\Index.cshtml",
               "RelativeToolTip": "SimulationTask2\\VIews\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAM4BAAAAAAAAAAAAAOEBAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-14T09:02:27.011Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "MemberProfile.cs",
               "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\SimulationTask2\\SimulationTask2\\Areas\\Manage\\Helpers\\Mapper\\MemberProfile.cs",
               "RelativeDocumentMoniker": "SimulationTask2\\Areas\\Manage\\Helpers\\Mapper\\MemberProfile.cs",
               "ToolTip": "C:\\Users\\smart\\source\\repos\\SimulationTask2\\SimulationTask2\\Areas\\Manage\\Helpers\\Mapper\\MemberProfile.cs",
               "RelativeToolTip": "SimulationTask2\\Areas\\Manage\\Helpers\\Mapper\\MemberProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T09:00:41.804Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "PositionController.cs",
               "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\SimulationTask2\\SimulationTask2\\Areas\\Manage\\Controllers\\PositionController.cs",
               "RelativeDocumentMoniker": "SimulationTask2\\Areas\\Manage\\Controllers\\PositionController.cs",
               "ToolTip": "C:\\Users\\smart\\source\\repos\\SimulationTask2\\SimulationTask2\\Areas\\Manage\\Controllers\\PositionController.cs",
               "RelativeToolTip": "SimulationTask2\\Areas\\Manage\\Controllers\\PositionController.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAQwEoAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAwCgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T08:55:02.306Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\SimulationTask2\\SimulationTask2\\Areas\\Manage\\Views\\Position\\Index.cshtml",
               "RelativeDocumentMoniker": "SimulationTask2\\Areas\\Manage\\Views\\Position\\Index.cshtml",
               "ToolTip": "C:\\Users\\smart\\source\\repos\\SimulationTask2\\SimulationTask2\\Areas\\Manage\\Views\\Position\\Index.cshtml",
               "RelativeToolTip": "SimulationTask2\\Areas\\Manage\\Views\\Position\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-14T08:54:46.711Z",
               "EditorCaption": ""
@@ -198,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 19,
               "Title": "CreatePositionDto.cs",
               "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\SimulationTask2\\SimulationTask2\\Areas\\Manage\\DTOS\\Position\\CreatePositionDto.cs",
               "RelativeDocumentMoniker": "SimulationTask2\\Areas\\Manage\\DTOS\\Position\\CreatePositionDto.cs",
@@ -206,38 +240,37 @@
               "RelativeToolTip": "SimulationTask2\\Areas\\Manage\\DTOS\\Position\\CreatePositionDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T08:39:44.376Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T08:39:44.376Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\SimulationTask2\\SimulationTask2\\Areas\\Manage\\Views\\Member\\Index.cshtml",
               "RelativeDocumentMoniker": "SimulationTask2\\Areas\\Manage\\Views\\Member\\Index.cshtml",
               "ToolTip": "C:\\Users\\smart\\source\\repos\\SimulationTask2\\SimulationTask2\\Areas\\Manage\\Views\\Member\\Index.cshtml",
               "RelativeToolTip": "SimulationTask2\\Areas\\Manage\\Views\\Member\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-14T08:33:49.644Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "CreateMemberDto.cs",
               "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\SimulationTask2\\SimulationTask2\\Areas\\Manage\\DTOS\\Member\\CreateMemberDto.cs",
               "RelativeDocumentMoniker": "SimulationTask2\\Areas\\Manage\\DTOS\\Member\\CreateMemberDto.cs",
               "ToolTip": "C:\\Users\\smart\\source\\repos\\SimulationTask2\\SimulationTask2\\Areas\\Manage\\DTOS\\Member\\CreateMemberDto.cs",
               "RelativeToolTip": "SimulationTask2\\Areas\\Manage\\DTOS\\Member\\CreateMemberDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T08:22:03.541Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "PositionProfile.cs",
               "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\SimulationTask2\\SimulationTask2\\Areas\\Manage\\Helpers\\Mapper\\PositionProfile.cs",
               "RelativeDocumentMoniker": "SimulationTask2\\Areas\\Manage\\Helpers\\Mapper\\PositionProfile.cs",
@@ -250,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 18,
               "Title": "Member.cs",
               "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\SimulationTask2\\SimulationTask2\\Models\\Member.cs",
               "RelativeDocumentMoniker": "SimulationTask2\\Models\\Member.cs",
@@ -258,38 +291,37 @@
               "RelativeToolTip": "SimulationTask2\\Models\\Member.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T08:31:19.103Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T08:31:19.103Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\SimulationTask2\\SimulationTask2\\Areas\\Manage\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "SimulationTask2\\Areas\\Manage\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\smart\\source\\repos\\SimulationTask2\\SimulationTask2\\Areas\\Manage\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "SimulationTask2\\Areas\\Manage\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAE0BAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-14T08:28:23.179Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\SimulationTask2\\SimulationTask2\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "SimulationTask2\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\smart\\source\\repos\\SimulationTask2\\SimulationTask2\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "SimulationTask2\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAD4AAABiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-14T08:28:15.679Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\SimulationTask2\\SimulationTask2\\Areas\\Manage\\Views\\Position\\Create.cshtml",
               "RelativeDocumentMoniker": "SimulationTask2\\Areas\\Manage\\Views\\Position\\Create.cshtml",
@@ -297,12 +329,11 @@
               "RelativeToolTip": "SimulationTask2\\Areas\\Manage\\Views\\Position\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-14T08:23:15.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T08:23:15.722Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 6,
               "Title": "NegativeIdException.cs",
               "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\SimulationTask2\\SimulationTask2\\Areas\\Manage\\Helpers\\Exception\\NegativeIdException.cs",
               "RelativeDocumentMoniker": "SimulationTask2\\Areas\\Manage\\Helpers\\Exception\\NegativeIdException.cs",
@@ -315,13 +346,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 2,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\SimulationTask2\\SimulationTask2\\Areas\\Manage\\Views\\Member\\Create.cshtml",
               "RelativeDocumentMoniker": "SimulationTask2\\Areas\\Manage\\Views\\Member\\Create.cshtml",
               "ToolTip": "C:\\Users\\smart\\source\\repos\\SimulationTask2\\SimulationTask2\\Areas\\Manage\\Views\\Member\\Create.cshtml",
               "RelativeToolTip": "SimulationTask2\\Areas\\Manage\\Views\\Member\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwCAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-14T08:23:11.049Z",
               "EditorCaption": ""
@@ -334,14 +365,14 @@
               "RelativeDocumentMoniker": "SimulationTask2\\Areas\\Manage\\Controllers\\MemberController.cs",
               "ToolTip": "C:\\Users\\smart\\source\\repos\\SimulationTask2\\SimulationTask2\\Areas\\Manage\\Controllers\\MemberController.cs",
               "RelativeToolTip": "SimulationTask2\\Areas\\Manage\\Controllers\\MemberController.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAhwEEAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAuwDAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T08:22:05.505Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "UpdatePositiionDto.cs",
               "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\SimulationTask2\\SimulationTask2\\Areas\\Manage\\DTOS\\Position\\UpdatePositiionDto.cs",
               "RelativeDocumentMoniker": "SimulationTask2\\Areas\\Manage\\DTOS\\Position\\UpdatePositiionDto.cs",
@@ -349,8 +380,7 @@
               "RelativeToolTip": "SimulationTask2\\Areas\\Manage\\DTOS\\Position\\UpdatePositiionDto.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T08:21:58.977Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T08:21:58.977Z"
             }
           ]
         }
